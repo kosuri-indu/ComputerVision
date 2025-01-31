@@ -13,12 +13,14 @@ Computer Vision (CV) is a branch of Computer Science that empowers machines to s
 - In this step, computers process images and label the various objects on them. They also find patterns in those objects. 
 - As a result, the computer can accurately detect whether or not a particular image is a cat each time we send it pictures.
 
-Some of the most popular applications include:
+## Popular Applications of Computer Vision
 
-- **Object Classification**: Recognizing the broad category of an object in a photograph.
-- **Object Identification**: Identifying the specific type of object in a photograph.
-- **Object Detection**: Detecting the location of an object in a photograph.
-- **Object Verification**: Verifying the presence of an object in a photograph.
-- **Object Landmark Detection**: Detecting key points for an object in a photograph.
-- **Object Segmentation**: Segmenting the pixels that belong to an object in an image.
-- **Object Recognition**: Recognizing objects in a photograph and pinpointing their location.
+| Application                  | Description                                                                 |
+|------------------------------|-----------------------------------------------------------------------------|
+| **Object Classification**    | Recognizing the broad category of an object in a photograph.                |
+| **Object Identification**    | Identifying the specific type of object in a photograph.                    |
+| **Object Detection**         | Detecting the location of an object in a photograph.                        |
+| **Object Verification**      | Verifying the presence of an object in a photograph.                        |
+| **Object Landmark Detection**| Detecting key points for an object in a photograph.                         |
+| **Object Segmentation**      | Segmenting the pixels that belong to an object in an image.                 |
+| **Object Recognition**       | Recognizing objects in a photograph and pinpointing their location.         |
