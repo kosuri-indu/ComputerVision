@@ -19,7 +19,6 @@ for cnt in contours:
         # contour_index = -1 means all contours
 
         # bounding rectangle - used to draw a rectangle around the contour
-        cv2.boundingRect(cnt)
         x,y,w,h = cv2.boundingRect(cnt)
         cv2.rectangle(img, (x,y), (x+w, y+h), (255,0,0), 2)
 

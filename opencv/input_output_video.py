@@ -17,6 +17,7 @@ ret = True
 # will loop until the video ends
 while ret:
     # read the frame
+    # ret is a boolean that returns true if the frame is read correctly - return value
     ret, frame = cap.read()
 
     # check if the frame is read
