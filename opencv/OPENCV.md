@@ -1,7 +1,5 @@
 # OpenCV
 
-## Overview
-
 OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. It contains more than 2500 optimized algorithms, which can be used for various computer vision tasks.
 
 ## What are Images?
